@@ -1,0 +1,12 @@
+# RewriteEngine On
+# RewriteBase /pantaisawarna/
+
+# # Rewrite rule untuk menangani URL seperti /game-sugar-rush
+# RewriteRule ^([^/]+)$ index.php?page=$1 [L]
+
+RewriteEngine On
+
+# (Optional) To handle more pages dynamically
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/]+)$ index.php?page=$1 [L]
