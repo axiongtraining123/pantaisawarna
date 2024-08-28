@@ -11,7 +11,7 @@
             <div class="elementor-element elementor-element-e5e1cd4 e-con-full e-flex e-con e-child" data-id="e5e1cd4" data-element_type="container">
 				<div class="elementor-element elementor-element-809e344 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="809e344" data-element_type="widget" data-widget_type="theme-post-title.default">
 					<div class="elementor-widget-container">
-						<h2 class="elementor-heading-title elementor-size-default">Review Slot Sugar Rush</h2>
+						<h2 class="elementor-heading-title elementor-size-default">Review Slot Demo Sugar Rush</h2>
 					</div>
 				</div>
             </div>
