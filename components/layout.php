@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
-    <title>Slot Demo Sugar Rush</title>
+    <title>HOLY789'S SLOT DEMO SUGAR RUSH</title>
     <meta name="robots" content="max-image-preview:large">
     <link rel="alternate" type="application/rss+xml" title="Slot Demo Sugar Rush &raquo; Feed" href="./feed/index.html">
     <link rel="alternate" type="application/rss+xml" title="Slot Demo Sugar Rush &raquo; Comments Feed" href="./comments/feed/index.html">
