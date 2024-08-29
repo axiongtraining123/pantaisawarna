@@ -146,7 +146,7 @@
             <div class="elementor-element elementor-element-14efc67 premium-header-inline elementor-widget elementor-widget-premium-addon-dual-header" data-id="14efc67" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
             <div class="elementor-widget-container">
                 <h2 class="premium-dual-header-first-header ">
-                <span class="premium-dual-header-first-span">Copyright <a href="<?php echo $link_daftar_holy789; ?>" style="text-decoration: none; color: inherit;">HOLY789'S SLOT DEMO SUGAR RUSH</a></span><span class="premium-dual-header-second-header "> all right reserved</span>
+                <span class="premium-dual-header-first-span">Copyright <a href="<?php echo $base_url; ?>" style="text-decoration: none; color: inherit;">HOLY789'S SLOT DEMO SUGAR RUSH</a></span><span class="premium-dual-header-second-header "> all right reserved</span>
                 </h2>
             </div>
             </div>
