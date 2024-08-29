@@ -1,6 +1,14 @@
 <?php
 	include 'config.php'; 
 
+    $customMeta = '
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>HOLY789 SLOT DEMO SUGAR RUSH</title>
+	<meta name="robots" content="max-image-preview:large">
+	';
+	$customCSS = '';
 	$customJS = '<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script><script src="./assets/fancy-box/fancybox.js"></script>';
 ?>
 <div data-elementor-type="wp-page" data-elementor-id="84" class="elementor elementor-84" data-elementor-post-type="page">

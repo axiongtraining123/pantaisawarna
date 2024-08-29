@@ -2,11 +2,21 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
-  <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="profile" href="https://gmpg.org/xfn/11">
-    <title>HOLY789'S SLOT DEMO SUGAR RUSH</title>
-    <meta name="robots" content="max-image-preview:large">
+    <!-- CUSTOM META -->
+    <?php if (isset($customMeta)) { echo $customMeta; } ?>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <link rel="https://api.w.org/" href="./wp-json/index.html">
+    <link rel="alternate" title="JSON" type="application/json" href="./wp-json/wp/v2/pages/84/index.html">
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="./xmlrpc.php?rsd">
+    <meta name="generator" content="WordPress 6.6.1">
+    <link rel="canonical" href="./index.php">
+    <link rel="shortlink" href="./index.php">
+    <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="./wp-json/oembed/1.0/embed/index.html?url=https%3A%2F%2F%2F">
+    <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="./wp-json/oembed/1.0/embed/index.html?url=https%3A%2F%2F%2F#038;format=xml">
+    <meta name="generator" content="Elementor 3.23.3; features: e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, e_optimized_control_loading, e_lazyload, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
+    <meta name="msapplication-TileImage" content="./wp-content/uploads/2024/07/slot-demo-sugar-rush.webp">
+
     <link rel="alternate" type="application/rss+xml" title="Slot Demo Sugar Rush &raquo; Feed" href="./feed/index.html">
     <link rel="alternate" type="application/rss+xml" title="Slot Demo Sugar Rush &raquo; Comments Feed" href="./comments/feed/index.html">
     <script>
@@ -57,19 +67,10 @@
     <link rel="stylesheet" id="ekit-responsive-css" href="./wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.2.3" media="all">
     <link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COswald%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMaven+Pro%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.6.1"
     media="all">
-    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <script src="./wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script> 
     <!-- <script src="./wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script> -->
     <script src="./wp-content/plugins/sticky-header-effects-for-elementor/assets/js/she-header.js?ver=1.6.11" id="she-header-js"></script>
-    <link rel="https://api.w.org/" href="./wp-json/index.html">
-    <link rel="alternate" title="JSON" type="application/json" href="./wp-json/wp/v2/pages/84/index.html">
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="./xmlrpc.php?rsd">
-    <meta name="generator" content="WordPress 6.6.1">
-    <link rel="canonical" href="./index.php">
-    <link rel="shortlink" href="./index.php">
-    <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="./wp-json/oembed/1.0/embed/index.html?url=https%3A%2F%2F%2F">
-    <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="./wp-json/oembed/1.0/embed/index.html?url=https%3A%2F%2F%2F#038;format=xml">
-    <meta name="generator" content="Elementor 3.23.3; features: e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, e_optimized_control_loading, e_lazyload, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
+    
     <style>
         .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
         .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
@@ -91,37 +92,26 @@
     <link rel="icon" href="./wp-content/uploads/2024/07/slot-demo-sugar-rush-150x96.webp" sizes="32x32">
     <link rel="icon" href="./wp-content/uploads/2024/07/slot-demo-sugar-rush.webp" sizes="192x192">
     <link rel="apple-touch-icon" href="./wp-content/uploads/2024/07/slot-demo-sugar-rush.webp">
-    <meta name="msapplication-TileImage" content="./wp-content/uploads/2024/07/slot-demo-sugar-rush.webp">
-    <!-- CUSTOME CSS -->
+    
     <link rel="stylesheet" href="./wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">
+    <!-- CUSTOME CSS -->
+    <?php if (isset($customCSS)) { echo $customCSS; } ?>
     <link rel="stylesheet" href="./assets/css/elementor-slides.css" media="all">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css">
     <link rel="stylesheet" href="./assets/fancy-box/fancybox.css">
 
     <!-- from game-sugar-rush -->
-    <link rel="stylesheet" id="premium-addons-css" href="./wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.10.38" media="all">
-    <link rel="stylesheet" id="wp-block-library-css" href="./wp-includes/css/dist/block-library/style.min.css?ver=6.6.1" media="all">
+    <!-- <link rel="stylesheet" id="premium-addons-css" href="./wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.10.38" media="all"> -->
+    <!-- <link rel="stylesheet" id="wp-block-library-css" href="./wp-includes/css/dist/block-library/style.min.css?ver=6.6.1" media="all"> -->
     <link rel="stylesheet" id="elementor-post-102-css" href="./wp-content/uploads/elementor/css/post-102.css?ver=1723593237" media="all">
     <!-- <link rel="alternate" title="JSON" type="application/json" href="./../../wp-json/wp/v2/game/87/index.html"> -->
   </head>
   <body class="home page-template page-template-elementor_header_footer page page-id-84 wp-custom-logo elementor-default elementor-template-full-width elementor-kit-104 elementor-page elementor-page-84">
     <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 
-    <?php include('header.php'); ?>
-    <?php
-        $page = isset($_GET['page']) ? $_GET['page'] : 'home'; 
-        if (isset($page)) {
-            if (file_exists("views/$page.php")) {
-                include("views/$page.php");
-            } else {
-                include("views/404.php"); // if page not found
-            }
-            
-        } else {
-            include("views/home.php"); // Default page
-        }
-    ?>
-    <?php include('footer.php'); ?>
+    <?php include __DIR__ . '/header.php'; ?>
+    <?php echo $pageContent; ?>
+    <?php include __DIR__ . '/footer.php'; ?>
 
     <script type="text/javascript">
         const lazyloadRunObserver = () => {
@@ -206,11 +196,5 @@
 
     <!-- CUSTOME JS -->
     <?php if (isset($customJS)) { echo $customJS; } ?>
-    <link rel="stylesheet" id="elementor-post-494-css" href="./wp-content/uploads/elementor/css/post-494.css?ver=1723593232" media="all">
-    <link rel="stylesheet" id="elementor-post-508-css" href="./wp-content/uploads/elementor/css/post-508.css?ver=1723593227" media="all">
-    <link rel="stylesheet" id="elementor-post-143-css" href="./wp-content/uploads/elementor/css/post-143.css?ver=1723593266" media="all">
-
-    <!-- CUSTOM CSS -->
-    <?php if (isset($customCSS)) { echo $customCSS; } ?>
   </body>
 </html>

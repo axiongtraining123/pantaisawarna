@@ -1,6 +1,13 @@
 <?php 
 	include 'config.php'; 
 
+	$customMeta = '
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>HOLY789 - DEMO SUGAR RUSH</title>
+	<meta name="robots" content="max-image-preview:large">
+	';
 	// $customCSS = '<link rel="stylesheet" id="elementor-post-102-css" href="./wp-content/uploads/elementor/css/post-102.css?ver=1723593237" media="all">';
 	$customJS = '<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script><script src="./assets/fancy-box/fancybox.js"></script>';
 ?>

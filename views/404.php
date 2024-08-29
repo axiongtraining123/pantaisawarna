@@ -1,5 +1,13 @@
 <?php 
 	include 'config.php';
+
+  $customMeta = '
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>HOLY789 - DEMO SUGAR RUSH</title>
+	<meta name="robots" content="max-image-preview:large">
+	';
 	$customCSS = '<link rel="stylesheet" id="elementor-post-143-css" href="./wp-content/uploads/elementor/css/post-143.css?ver=1723593266" media="all">';
 ?>
 <div data-elementor-type="error-404" data-elementor-id="143" class="elementor elementor-143 elementor-location-single" data-elementor-post-type="elementor_library">
