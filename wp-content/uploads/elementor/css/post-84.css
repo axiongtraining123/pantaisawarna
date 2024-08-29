@@ -2,7 +2,7 @@
     .slider-container {
         width: 100%;
         height: auto;
-        padding-bottom: 23.81%; /* Sesuaikan dengan rasio gambar */
+        /* padding-bottom: 23.81%; Sesuaikan dengan rasio gambar */
         position: relative;
     }
 
