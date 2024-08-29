@@ -97,6 +97,7 @@
     <!-- CUSTOME CSS -->
     <?php if (isset($customCSS)) { echo $customCSS; } ?>
     <link rel="stylesheet" href="./assets/css/elementor-slides.css" media="all">
+    <link rel="stylesheet" href="./assets/css/sosmed-icon.css" media="all">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css">
     <link rel="stylesheet" href="./assets/fancy-box/fancybox.css">
 
