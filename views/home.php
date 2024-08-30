@@ -1162,7 +1162,7 @@
     <section class="elementor-section elementor-top-section elementor-element elementor-element-32c750a0 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="32c750a0" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
     <div class="elementor-container elementor-column-gap-no">
         <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5682b724" data-id="5682b724" data-element_type="column">
-        <div class="elementor-widget-wrap elementor-element-populated">
+        <div class="elementor-widget-wrap elementor-element-populated" style="padding-top: 25px">
             <div class="elementor-element elementor-element-1bed1347 premium-header-inline elementor-widget elementor-widget-premium-addon-dual-header" data-id="1bed1347" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
             <div class="elementor-widget-container">
                 <h2 class="premium-dual-header-first-header ">
