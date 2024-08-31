@@ -59,7 +59,7 @@
     </div>
     <div class="elementor-element elementor-element-62dee24 e-flex e-con-boxed e-con e-parent" data-id="62dee24" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
     <div class="e-con-inner">
-        <div class="elementor-element elementor-element-69a617a e-n-tabs-mobile elementor-widget elementor-widget-n-tabs" data-id="69a617a" data-element_type="widget" data-settings="{&quot;tabs_justify_horizontal&quot;:&quot;center&quot;,&quot;horizontal_scroll&quot;:&quot;enable&quot;,&quot;horizontal_scroll_mobile&quot;:&quot;enable&quot;,&quot;horizontal_scroll_tablet&quot;:&quot;enable&quot;}" data-widget_type="nested-tabs.default">
+        <div style="margin-top: -30px" class="elementor-element elementor-element-69a617a e-n-tabs-mobile elementor-widget elementor-widget-n-tabs" data-id="69a617a" data-element_type="widget" data-settings="{&quot;tabs_justify_horizontal&quot;:&quot;center&quot;,&quot;horizontal_scroll&quot;:&quot;enable&quot;,&quot;horizontal_scroll_mobile&quot;:&quot;enable&quot;,&quot;horizontal_scroll_tablet&quot;:&quot;enable&quot;}" data-widget_type="nested-tabs.default">
         <div class="elementor-widget-container">
             <div class="e-n-tabs" data-widget-number="110780794" aria-label="Tabs. Open items with Enter or Space, close with Escape and navigate using the Arrow keys.">
             <div class="e-n-tabs-heading" role="tablist">
