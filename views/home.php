@@ -64,7 +64,7 @@
     </div>
     <div class="elementor-element elementor-element-62dee24 e-flex e-con-boxed e-con e-parent" data-id="62dee24" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
     <div class="e-con-inner">
-        <div class="elementor-element elementor-element-69a617a e-n-tabs-mobile elementor-widget elementor-widget-n-tabs" data-id="69a617a" data-element_type="widget" data-settings="{&quot;tabs_justify_horizontal&quot;:&quot;center&quot;,&quot;horizontal_scroll&quot;:&quot;enable&quot;,&quot;horizontal_scroll_mobile&quot;:&quot;enable&quot;,&quot;horizontal_scroll_tablet&quot;:&quot;enable&quot;}" data-widget_type="nested-tabs.default">
+        <div style="margin-top: -30px" class="elementor-element elementor-element-69a617a e-n-tabs-mobile elementor-widget elementor-widget-n-tabs" data-id="69a617a" data-element_type="widget" data-settings="{&quot;tabs_justify_horizontal&quot;:&quot;center&quot;,&quot;horizontal_scroll&quot;:&quot;enable&quot;,&quot;horizontal_scroll_mobile&quot;:&quot;enable&quot;,&quot;horizontal_scroll_tablet&quot;:&quot;enable&quot;}" data-widget_type="nested-tabs.default">
         <div class="elementor-widget-container">
             <div class="e-n-tabs" data-widget-number="110780794" aria-label="Tabs. Open items with Enter or Space, close with Escape and navigate using the Arrow keys.">
             <div class="e-n-tabs-heading" role="tablist">
@@ -1167,7 +1167,7 @@
     <section class="elementor-section elementor-top-section elementor-element elementor-element-32c750a0 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="32c750a0" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
     <div class="elementor-container elementor-column-gap-no">
         <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5682b724" data-id="5682b724" data-element_type="column">
-        <div class="elementor-widget-wrap elementor-element-populated">
+        <div class="elementor-widget-wrap elementor-element-populated" style="padding-top: 25px">
             <div class="elementor-element elementor-element-1bed1347 premium-header-inline elementor-widget elementor-widget-premium-addon-dual-header" data-id="1bed1347" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
             <div class="elementor-widget-container">
                 <h1 class="premium-dual-header-first-header ">
