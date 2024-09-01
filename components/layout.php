@@ -16,6 +16,9 @@
   <meta property="og:url" content="https://memorialhall.org/" />
   <meta property="og:description" content="Selamat datang di HOLY789'S SLOT DEMO SUGAR RUSH, tempat terbaik untuk menikmati berbagai slot demo Sugar Rush terbaru dan terpopuler. Kami menyediakan pengalaman bermain demo slot x500 tanpa perlu mempertaruhkan uang sungguhan, tentunya gratis dan tanpa lag hanya di sini." />
   <meta property="og:image" content="/wp-content/uploads/2024/07/slot-demo-sugar-rush.webp" />
+  <meta property="product:price:amount" content="10000.00" />
+  <meta property="product:price:currency" content="IDR" />
+  <meta property="product:availability" content="instock" />
   <meta itemprop="name" content="HOLY789'S SLOT DEMO SUGAR RUSH" />
   <meta itemprop="url" content="https://memorialhall.org/" />
   <meta itemprop="description" content="Selamat datang di HOLY789'S SLOT DEMO SUGAR RUSH, tempat terbaik untuk menikmati berbagai slot demo Sugar Rush terbaru dan terpopuler. Kami menyediakan pengalaman bermain demo slot x500 tanpa perlu mempertaruhkan uang sungguhan, tentunya gratis dan tanpa lag hanya di sini." />

@@ -54,7 +54,7 @@
 									font-size: 59px
 								}
 								</style>
-								<h2 class="elementor-heading-title elementor-size-default">Review Slot Sugar Rush 1000</h2> </div>
+								<h2 class="elementor-heading-title elementor-size-default">Review Slot Demo Sugar Rush 1000</h2> </div>
 						</div>
 					</div>
 					<div class="elementor-element elementor-element-82ead40 e-con-full e-flex e-con e-child" data-id="82ead40" data-element_type="container">
