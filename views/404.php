@@ -7,8 +7,9 @@
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 	<title>HOLY789 - DEMO SUGAR RUSH</title>
 	<meta name="robots" content="max-image-preview:large">
+    <base href="https://memorialhall.org/">
 	';
-	$customCSS = '<link rel="stylesheet" id="elementor-post-143-css" href="./wp-content/uploads/elementor/css/post-143.css?ver=1723593266" media="all">';
+	$customCSS = '<link rel="stylesheet" id="elementor-post-143-css" href="https://memorialhall.org/wp-content/uploads/elementor/css/post-143.css?ver=1723593266" media="all">';
 ?>
 <div data-elementor-type="error-404" data-elementor-id="143" class="elementor elementor-143 elementor-location-single" data-elementor-post-type="elementor_library">
   <section class="elementor-section elementor-top-section elementor-element elementor-element-73de42e3 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="73de42e3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -29,7 +30,7 @@
                   </div>
                   <div class="elementor-element elementor-element-196da646 elementor-widget elementor-widget-text-editor" data-id="196da646" data-element_type="widget" data-widget_type="text-editor.default">
                     <div class="elementor-widget-container">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br>Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. </p>
+                      <p>Keberuntungan berpihak kepada yang berani !</p>
                     </div>
                   </div>
                   <div class="elementor-element elementor-element-575d7cae elementor-align-left elementor-mobile-align-left elementor-widget elementor-widget-button" data-id="575d7cae" data-element_type="widget" data-widget_type="button.default">
@@ -42,7 +43,7 @@
                                 <path d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path>
                               </svg>
                             </span>
-                            <span class="elementor-button-text">Become Member</span>
+<span class="elementor-button-text" onclick="window.location.href='https://memorialhall.org';">Demo Sugar Rush Gratis</span>
                           </span>
                         </a>
                       </div>
